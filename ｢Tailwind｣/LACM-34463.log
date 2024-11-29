@@ -1,0 +1,154 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2024-02-21 12:55:36 -0500
+
+叶 / Tailwind
+
+Used drive : HL-DT-ST BD-RE WP50NB40 (revision 1.03)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:53:39 |         0    |    17513   
+        2  | 03:53:39 | 04:07:31 |     17514    |    36069   
+        3  | 08:00:70 | 03:47:45 |     36070    |    53139   
+        4  | 11:48:40 | 03:53:39 |     53140    |    70653   
+        5  | 15:42:04 | 04:07:31 |     70654    |    89209   
+        6  | 19:49:35 | 03:47:46 |     89210    |   106280   
+
+AccurateRip Summary (DiscID: 0005b085-001e56c8-3f058906)
+    Track 01 : OK (v2, confidence 1/1)
+    Track 02 : OK (v2, confidence 1/1)
+    Track 03 : OK (v2, confidence 1/1)
+    Track 04 : OK (v2, confidence 1/1)
+    Track 05 : OK (v2, confidence 1/1)
+    Track 06 : OK (v2, confidence 1/1)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Album gain               : -9.60 dB
+    Peak                     : 0.997314
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/RIPS/叶 - Tailwind [FLAC]/01 Tailwind.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -11.20 dB
+    Peak                     : 0.997314
+    CRC32 hash (test run)    : 1362160B
+    CRC32 hash               : 1362160B
+    CRC32 hash (skip zero)   : 1E59AB5E
+    AccurateRip v1 signature : 92BFC2E9
+    AccurateRip v2 signature : 5230E8C1
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/RIPS/叶 - Tailwind [FLAC]/02 Always be here for you.flac
+
+    Track gain               : -9.62 dB
+    Peak                     : 0.997314
+    CRC32 hash (test run)    : 63C547EF
+    CRC32 hash               : 63C547EF
+    CRC32 hash (skip zero)   : 879765CD
+    AccurateRip v1 signature : BD1229EA
+    AccurateRip v2 signature : 305744AF
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/RIPS/叶 - Tailwind [FLAC]/03 Tepid.flac
+
+    Track gain               : -8.87 dB
+    Peak                     : 0.997314
+    CRC32 hash (test run)    : D297CDB3
+    CRC32 hash               : D297CDB3
+    CRC32 hash (skip zero)   : 9B8B6AD5
+    AccurateRip v1 signature : 483DF73B
+    AccurateRip v2 signature : 9B35EF60
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/RIPS/叶 - Tailwind [FLAC]/04 Tailwind (instrumental).flac
+
+    Track gain               : -10.31 dB
+    Peak                     : 0.997314
+    CRC32 hash (test run)    : 5E43262E
+    CRC32 hash               : 5E43262E
+    CRC32 hash (skip zero)   : EC7D2CB5
+    AccurateRip v1 signature : 9D194317
+    AccurateRip v2 signature : 5EED83EF
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/RIPS/叶 - Tailwind [FLAC]/05 Always be here for you (instrumental).flac
+
+    Track gain               : -8.67 dB
+    Peak                     : 0.997314
+    CRC32 hash (test run)    : 7CF5B487
+    CRC32 hash               : 7CF5B487
+    CRC32 hash (skip zero)   : 9D5C6B1C
+    AccurateRip v1 signature : C52C145E
+    AccurateRip v2 signature : 917A04B6
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/RIPS/叶 - Tailwind [FLAC]/06 Tepid (instrumental).flac
+
+    Track gain               : -7.69 dB
+    Peak                     : 0.997314
+    CRC32 hash (test run)    : 9D9F8CB0
+    CRC32 hash               : 9D9F8CB0
+    CRC32 hash (skip zero)   : AF32BB2C
+    AccurateRip v1 signature : FDD51AB2
+    AccurateRip v2 signature : 7AD4715D
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+9Qaalfq132D_RQgUw0bxvHxVkylSGkA4cJbJ5ZitA7jXM2UkDHUSEdrvbiJunI.ndrH7LQJEA8OgfyhIu_6d8mKHyh_uQ42ZHU034Ae
+-----END XLD SIGNATURE-----
