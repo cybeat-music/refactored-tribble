@@ -1,0 +1,153 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2024-02-20 12:21:34 -0500
+
+畠中祐 / グッドラック
+
+Used drive : HL-DT-ST BD-RE WP50NB40 (revision 1.03)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:44:32 |         0    |    16831   
+        2  | 03:44:32 | 03:42:45 |     16832    |    33526   
+        3  | 07:27:02 | 04:42:51 |     33527    |    54727   
+        4  | 12:09:53 | 03:44:32 |     54728    |    71559   
+        5  | 15:54:10 | 03:42:46 |     71560    |    88255   
+        6  | 19:36:56 | 04:42:50 |     88256    |   109455   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Album gain               : -9.00 dB
+    Peak                     : 0.953918
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/RIPS/畠中祐 - グッドラック [FLAC]/01 グッドラック.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -9.56 dB
+    Peak                     : 0.953888
+    CRC32 hash (test run)    : 621894B4
+    CRC32 hash               : 621894B4
+    CRC32 hash (skip zero)   : 1F8491FB
+    AccurateRip v1 signature : 3A330217
+    AccurateRip v2 signature : 38FB3F8A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/RIPS/畠中祐 - グッドラック [FLAC]/02 Psycho.flac
+    Pre-gap length : 00:02:45
+
+    Track gain               : -10.12 dB
+    Peak                     : 0.953888
+    CRC32 hash (test run)    : DC521B69
+    CRC32 hash               : DC521B69
+    CRC32 hash (skip zero)   : 6B358D85
+    AccurateRip v1 signature : DA9917E2
+    AccurateRip v2 signature : 71BEABAE
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/RIPS/畠中祐 - グッドラック [FLAC]/03 Endless Love.flac
+    Pre-gap length : 00:02:45
+
+    Track gain               : -9.12 dB
+    Peak                     : 0.953918
+    CRC32 hash (test run)    : 1289361D
+    CRC32 hash               : 1289361D
+    CRC32 hash (skip zero)   : 9DBBD25C
+    AccurateRip v1 signature : 60938D23
+    AccurateRip v2 signature : B80588F2
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/RIPS/畠中祐 - グッドラック [FLAC]/04 グッドラック (Instrumental).flac
+    Pre-gap length : 00:02:45
+
+    Track gain               : -7.49 dB
+    Peak                     : 0.953888
+    CRC32 hash (test run)    : 9336EFAD
+    CRC32 hash               : 9336EFAD
+    CRC32 hash (skip zero)   : 7E2D440C
+    AccurateRip v1 signature : C57903FD
+    AccurateRip v2 signature : 17D8C0D6
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/RIPS/畠中祐 - グッドラック [FLAC]/05 Psycho (Instrumental).flac
+    Pre-gap length : 00:02:45
+
+    Track gain               : -9.09 dB
+    Peak                     : 0.953918
+    CRC32 hash (test run)    : 0818693E
+    CRC32 hash               : 0818693E
+    CRC32 hash (skip zero)   : 740EBAE2
+    AccurateRip v1 signature : 2467E780
+    AccurateRip v2 signature : FE7A5438
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/RIPS/畠中祐 - グッドラック [FLAC]/06 Endless Love (Instrumental).flac
+    Pre-gap length : 00:02:45
+
+    Track gain               : -8.15 dB
+    Peak                     : 0.953888
+    CRC32 hash (test run)    : 50A842CC
+    CRC32 hash               : 50A842CC
+    CRC32 hash (skip zero)   : 53224B48
+    AccurateRip v1 signature : 219F227B
+    AccurateRip v2 signature : 4E4B2D30
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+zUT6nS3BsJ6ffFuZFutmO2He0xpWKBF9ADbHNPOf5JyEhc_BxVnPwZpOFg4Z6hw105YtfxLJs9ZfmWW7hcEopajqBzI2FTDTdiPOBk8
+-----END XLD SIGNATURE-----
